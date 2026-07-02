@@ -1,6 +1,6 @@
 # Hey, I'm Omkar Verma 👋
 
-**Computer Science Student • Aspiring Software Developer • India 🇮🇳**
+**Computer Science Student • Aspiring Artificial intelligence & Machine learning• India 🇮🇳**
 
 > *"Every expert was once a beginner who refused to quit."*
 
