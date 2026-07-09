@@ -1,47 +1,59 @@
-# Hey, I'm Omkar Verma 👋
+Hi, I'm Omkar Verma 👋
 
-**Computer Science Student • Aspiring Artificial intelligence & Machine learning• India 🇮🇳**
+🚀 AI & Machine Learning Enthusiast | Cyber Security Learner | Computer Science Student 🇮🇳
 
-> *"Every expert was once a beginner who refused to quit."*
-
----
-
-## 👨‍💻 Who Am I?
-
-I'm **Omkar Verma**, a Computer Science student at **Maharishi University of Information Technology, Lucknow**.
-
-I enjoy building useful software, exploring modern technologies, and improving my problem-solving skills every day.
-
-Currently, I'm focused on becoming a **Full Stack Developer** while strengthening my knowledge of **Data Structures & Algorithms** and **Cyber Security**.
+«"Building intelligent solutions, securing digital systems, and learning something new every single day."»
 
 ---
 
-## 🚀 Currently Working On
+👨‍💻 About Me
 
-- 🌱 Learning Full Stack Web Development
-- 💻 Building personal projects
-- 📚 Practicing DSA
-- 🔐 Exploring Cyber Security
+I'm Omkar Verma, a Computer Science student at Maharishi University of Information Technology, Lucknow.
 
----
+I'm passionate about Artificial Intelligence, Machine Learning, and Cyber Security. I enjoy transforming ideas into real-world projects while continuously improving my programming and problem-solving skills.
 
-## 🛠 Tech Stack
-
-**Languages**
-
-`C` • `C++` • `Java` • `Python` • `JavaScript`
-
-**Frontend**
-
-`HTML` • `CSS`
-
-**Tools**
-
-`Git` • `GitHub` • `VS Code`
+My goal is to become an AI Engineer who builds intelligent, secure, and impactful applications.
 
 ---
 
-## 🏆 Achievements
+🚀 Currently Exploring
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning & Neural Networks
+- 🐍 Python for AI Development
+- 🔐 Cyber Security Fundamentals & Ethical Hacking
+- 📊 Data Structures & Algorithms
+- 💡 Building AI-powered Projects
+
+---
+
+🛠️ Tech Stack
+
+💻 Languages
+
+"Python" • "Java" • "C++" • "C"
+
+🌐 Web
+
+"HTML" • "CSS"
+
+🧰 Tools
+
+"Git" • "GitHub" • "VS Code"
+
+---
+
+🎯 2026 Goals
+
+- 🚀 Build real-world AI & ML projects
+- 🔐 Strengthen Cyber Security skills
+- 📚 Master Data Structures & Algorithms
+- 🌟 Contribute to Open Source
+- 💼 Land an AI/ML Internship
+
+---
+
+🏆 Achievements
 
 🥇 1st Place — Software Engineering Category (Prism Expo)
 
@@ -49,16 +61,14 @@ Currently, I'm focused on becoming a **Full Stack Developer** while strengthenin
 
 ---
 
-## 📬 Connect
+📫 Let's Connect
 
-📧 **007omkarverma@gmail.com**
-
-💼 **LinkedIn:** https://linkedin.com/in/omkar-verma-
-
-🐙 **GitHub:** https://github.com/001omkar
+📧 007omkarverma@gmail.com
 
 ---
 
-## 📖 Motto
+⚡ Fun Fact
 
-> Learn → Build → Improve → Repeat 🚀
+«I believe consistency beats talent when talent doesn't stay consistent.»
+
+⭐ Learning → Building → Securing → Growing
