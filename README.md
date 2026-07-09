@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- 🌟 ANIMATED BANNER SECTION 🌟 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=🌟+Welcome+to+Omkar's+Tech+Universe+🌟;AI+%26+ML+%7C+Cybersecurity+%7C+Full-Stack+Developer;Building+Intelligent+Solutions+%26+Securing+Tomorrow" alt="Animated banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=🌟+Welcome+to+Omkar's+Tech+Universe+🌟;🚀+AI+Engineer+%7C+Security+Explorer+%7C+Tech+Innovator;💻+Building+Tomorrow's+Solutions+Today">
 
 # 👋 Hi, I'm **Omkar Verma**
-### 🚀 **AI Engineer | 🔐 Security Explorer | 🎨 Creative Developer | 💡 Tech Innovator**
+### 💻 Coding | 🤖 AI/ML | 🔐 Cybersecurity | 📚 Learning | 🚀 Building Tomorrow | ☕ Coffee Fueled
 
-*"Consistency beats talent when talent doesn't stay consistent." — Building intelligent, secure & beautiful applications that solve real-world problems.*
+*"Consistency beats talent when talent doesn't stay consistent." — Transforming ideas into intelligent, secure & beautiful applications that solve real-world problems.*
 
 ---
 
