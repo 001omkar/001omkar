@@ -1,0 +1,101 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e27;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1f3a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f1729;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0099cc;stop-opacity:1" />
+    </linearGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <style>
+      @keyframes slideIn {
+        from { opacity: 0; transform: translateX(-50px); }
+        to { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 5px #00d9ff); }
+        50% { filter: drop-shadow(0 0 20px #00d9ff); }
+      }
+      .animate-slide { animation: slideIn 0.8s ease-out; }
+      .animate-glow { animation: glow 2s infinite; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+  
+  <!-- Geometric patterns -->
+  <line x1="0" y1="50" x2="150" y2="50" stroke="#00d9ff" stroke-width="2" opacity="0.3"/>
+  <line x1="1050" y1="250" x2="1200" y2="250" stroke="#00d9ff" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Left accent lines -->
+  <rect x="10" y="80" width="3" height="140" fill="#00d9ff" opacity="0.5"/>
+  <rect x="20" y="100" width="2" height="100" fill="#0099cc" opacity="0.4"/>
+  
+  <!-- Main Title -->
+  <text x="600" y="80" font-family="Arial, sans-serif" font-size="48" font-weight="bold" 
+        text-anchor="middle" fill="url(#textGradient)" filter="url(#glow)"
+        style="letter-spacing: 2px;">
+    OMKAR VERMA
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="130" font-family="Arial, sans-serif" font-size="20" 
+        text-anchor="middle" fill="#00d9ff" opacity="0.9"
+        style="letter-spacing: 1px;">
+    AI Engineer • Security Explorer • Full-Stack Developer
+  </text>
+  
+  <!-- Tech Skills Line -->
+  <text x="600" y="165" font-family="Arial, sans-serif" font-size="14" 
+        text-anchor="middle" fill="#0099cc" opacity="0.8">
+    🤖 AI/ML • 🔐 Cybersecurity • 🎨 Frontend • 💡 Innovation
+  </text>
+  
+  <!-- Tagline -->
+  <text x="600" y="210" font-family="Georgia, serif" font-size="16" font-style="italic"
+        text-anchor="middle" fill="#b0e0ff" opacity="0.7">
+    "Building intelligent, secure &amp; beautiful applications"
+  </text>
+  
+  <!-- Right accent lines -->
+  <rect x="1170" y="80" width="3" height="140" fill="#00d9ff" opacity="0.5"/>
+  <rect x="1180" y="100" width="2" height="100" fill="#0099cc" opacity="0.4"/>
+  
+  <!-- Decorative corner elements -->
+  <polygon points="0,0 30,0 0,30" fill="#00d9ff" opacity="0.2"/>
+  <polygon points="1200,300 1170,300 1200,270" fill="#00d9ff" opacity="0.2"/>
+  
+  <!-- Bottom tech stack badges (simplified) -->
+  <g opacity="0.6">
+    <rect x="250" y="250" width="70" height="30" rx="5" fill="#0099cc" opacity="0.3" stroke="#00d9ff" stroke-width="1"/>
+    <text x="285" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#00d9ff">Python</text>
+    
+    <rect x="340" y="250" width="70" height="30" rx="5" fill="#0099cc" opacity="0.3" stroke="#00d9ff" stroke-width="1"/>
+    <text x="375" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#00d9ff">React</text>
+    
+    <rect x="430" y="250" width="70" height="30" rx="5" fill="#0099cc" opacity="0.3" stroke="#00d9ff" stroke-width="1"/>
+    <text x="465" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#00d9ff">TensorFlow</text>
+    
+    <rect x="760" y="250" width="70" height="30" rx="5" fill="#0099cc" opacity="0.3" stroke="#00d9ff" stroke-width="1"/>
+    <text x="795" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#00d9ff">JavaScript</text>
+    
+    <rect x="850" y="250" width="70" height="30" rx="5" fill="#0099cc" opacity="0.3" stroke="#00d9ff" stroke-width="1"/>
+    <text x="885" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#00d9ff">Git</text>
+    
+    <rect x="940" y="250" width="70" height="30" rx="5" fill="#0099cc" opacity="0.3" stroke="#00d9ff" stroke-width="1"/>
+    <text x="975" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#00d9ff">Linux</text>
+  </g>
+</svg>
