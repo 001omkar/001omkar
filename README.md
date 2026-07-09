@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- 🌟 ANIMATED BANNER SECTION 🌟 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=🌟+Welcome+to+Omkar's+Tech+Universe+🌟;🚀+AI+Engineer+%7C+Security+Explorer+%7C+Tech+Innovator;💻+Building+Tomorrow's+Solutions+Today">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=🌟+Welcome+to+Omkar's+Tech+Universe+🌟;🎨+Frontend+Developer+%7C+Learning+AI+%7C+Tech+Enthusiast;💻+Building+Beautiful+User+Experiences">
 
 # 👋 Hi, I'm **Omkar Verma**
-### 💻 Coding | 🤖 AI/ML | 🔐 Cybersecurity | 📚 Learning | 🚀 Building Tomorrow | ☕ Coffee Fueled
+### 💻 Coding | 🎨 Frontend Development | 🤖 Learning AI | 📚 Continuous Learner | 🚀 Building Tomorrow | ☕ Coffee Fueled
 
-*"Consistency beats talent when talent doesn't stay consistent." — Transforming ideas into intelligent, secure & beautiful applications that solve real-world problems.*
+*"Consistency beats talent when talent doesn't stay consistent." — Creating beautiful, responsive, and intuitive web experiences that users love.*
 
 ---
 
@@ -24,17 +24,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** at **Maharishi University of Information Technology, Lucknow** 🇮🇳, passionate about transforming ideas into intelligent, secure, and beautiful solutions.
+I'm a **Computer Science student** at **Maharishi University of Information Technology, Lucknow** 🇮🇳, passionate about creating beautiful, responsive, and user-friendly web applications.
 
 ### 🎯 What I'm Focused On:
-- 🤖 **AI & Machine Learning** — Building smart solutions with TensorFlow, PyTorch & scikit-learn
-- 🔐 **Cybersecurity** — Ethical hacking, penetration testing & digital defense
-- 🎨 **Frontend Development** — Responsive, stunning UIs with React & vanilla JS
-- 📊 **Data Science** — Extracting insights from complex datasets
-- 🚀 **Full-Stack Development** — End-to-end application architecture
+- 🎨 **Frontend Development** — Building stunning, responsive UIs with modern web technologies
+- 💻 **HTML, CSS & JavaScript** — Crafting pixel-perfect web experiences
+- 🤖 **Learning AI & ML** — Exploring artificial intelligence and machine learning concepts
+- 📚 **Problem Solving** — Mastering Data Structures & Algorithms
+- 🔐 **Cybersecurity Interest** — Understanding digital defense and security protocols
 
 ### 🌟 My Vision:
-> Create **intelligent, secure, and beautiful applications** that make a meaningful impact on society.
+> Create **beautiful, intuitive, and responsive web applications** that provide amazing user experiences and make a positive impact.
 
 ---
 
@@ -42,11 +42,11 @@ I'm a **Computer Science student** at **Maharishi University of Information Tech
 
 <div align="center">
 
-| 🤖 Deep Learning | 🔐 Ethical Hacking | 🎨 Web Development |
+| 🎨 Web Development | 💻 Core Programming | 🤖 AI Basics |
 |:---:|:---:|:---:|
-| Neural Networks & NLP | Security Protocols | React & Modern JS |
-| Computer Vision | Penetration Testing | UI/UX Innovation |
-| Generative AI | Cyber Threats | Responsive Design |
+| HTML5 & CSS3 | Python Fundamentals | ML Concepts |
+| JavaScript | C Programming | Data Exploration |
+| Responsive Design | Algorithm Building | Learning Curve |
 
 </div>
 
@@ -56,30 +56,19 @@ I'm a **Computer Science student** at **Maharishi University of Information Tech
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive-4CAF50?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🤖 AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -89,12 +78,11 @@ I'm a **Computer Science student** at **Maharishi University of Information Tech
 
 | Objective | Status | ETA |
 |:---|:---:|:---|
-| 🤖 Build 10+ Production AI/ML Projects | 🔄 In Progress | Q4 2026 |
-| 🎨 Master Full-Stack Development | 🔄 Active | Q3 2026 |
-| 🔐 Complete Advanced Cybersecurity Course | ✅ Scheduled | Q2 2026 |
+| 🎨 Master Frontend Development | 🔄 In Progress | Q4 2026 |
+| 💻 Build 5+ Portfolio Projects | 🔄 Active | Q3 2026 |
 | 📚 Master DSA & Problem Solving | 🔄 Ongoing | Continuous |
-| 🌐 Contribute to 5+ Open Source Projects | 🎯 Target | Q3 2026 |
-| 💼 Secure AI/ML Position | 🚀 Goal | 2027 |
+| 🤖 Explore AI/ML Basics | 🎯 Started | Q3 2026 |
+| 🌐 Contribute to Open Source | 🎯 Target | Q4 2026 |
 
 </div>
 
@@ -109,8 +97,8 @@ I'm a **Computer Science student** at **Maharishi University of Information Tech
 | 📜 **Cyber Certification** | Deloitte Cyber Job Simulation — **Forage Platform** | 2026 |
 
 ### 📊 **Impact Metrics**
-- 💻 **20+ Projects** in AI, Web Dev & Security
-- 📚 **200+ Hours** invested in learning & development
+- 💻 **10+ Projects** in Frontend Development & Python
+- 📚 **150+ Hours** invested in learning & development
 - 🌟 **Growing Community** of tech enthusiasts
 - 🎯 **Focused on Quality** over quantity
 
@@ -135,22 +123,10 @@ I'm a **Computer Science student** at **Maharishi University of Information Tech
 ## 🔗 **Featured Projects**
 
 ### 🔐 [Password Generator](https://github.com/001omkar/password-g)
-> Advanced secure password generation with AI-powered recommendations
-- 🐍 Python-based architecture with sophisticated algorithms
-- 🔒 Military-grade encryption & randomization
-- 🎨 Intuitive frontend interface
-
-### 📊 [Glowing Palm Tree](https://github.com/001omkar/glowing-palm-tree)
-> Experimental Hub for AI/ML & Web Development
-- 🤖 Machine Learning implementations & experiments
-- 🎨 Interactive web applications & prototypes
-- 📚 Educational projects & documentation
-
-### 🎨 [Frontend Showcase](https://github.com/001omkar)
-> Modern web design & interactive experiences
-- 📱 Responsive designs with HTML5 & CSS3
-- ⚡ Interactive JavaScript applications
-- 🎯 User-centric UI/UX
+> Secure password generation tool with smart features
+- 🐍 Python-based with sophisticated algorithms
+- 🔒 Secure randomization & encryption
+- 🎨 User-friendly interface
 
 ---
 
@@ -163,11 +139,11 @@ I'm a **Computer Science student** at **Maharishi University of Information Tech
 ```
 
 ### Core Principles:
-✅ **Quality First** — Every line matters  
+✅ **Quality First** — Every pixel matters  
 ✅ **User-Centric** — Beautiful AND functional  
-✅ **Secure by Default** — Protection always comes first  
+✅ **Clean Code** — Easy to understand & maintain  
 ✅ **Continuous Growth** — Learning never stops  
-✅ **Community Driven** — Together we build better  
+✅ **Responsive Design** — Works everywhere  
 
 </div>
 
@@ -178,10 +154,10 @@ I'm a **Computer Science student** at **Maharishi University of Information Tech
 <div align="center">
 
 **I'm always interested in:**
-- 🤝 Collaborating on AI/ML projects
-- 💬 Discussing tech innovations & cybersecurity
+- 🤝 Collaborating on Frontend projects
+- 💬 Discussing web design & development
 - 📧 Networking with developers & innovators
-- 🚀 Exploring exciting opportunities & challenges
+- 🚀 Exploring exciting opportunities
 
 ### 🔗 Connect With Me:
 
@@ -199,13 +175,13 @@ I'm a **Computer Science student** at **Maharishi University of Information Tech
 
 ## 🎮 **Fun Facts About Me**
 
-- 🔍 Debugging code = Detective work | I love puzzle-solving
-- 📚 **Lifelong learner** passionate about experimentation
-- 🎨 **UI/UX enthusiast** crafting beautiful interfaces
-- 🌍 **Impact-driven** building tech for social good
+- 🎨 **UI/UX enthusiast** — Pixel-perfect design lover
+- 📚 **Lifelong learner** passionate about web technologies
+- 🔍 Debugging code = Detective work | I love solving puzzles
+- 🌍 **Impact-driven** building web experiences for users
 - ☕ **Powered by:** Coffee ☕ + Curiosity 🧠 + Code 💻
 - 🎯 **Growth mindset** — Always improving, never settling
-- 🤝 **Community lover** connecting with innovators
+- 🤝 **Community lover** connecting with fellow developers
 
 ---
 
@@ -229,7 +205,7 @@ I'm a **Computer Science student** at **Maharishi University of Information Tech
 
 ### 🌟 **Thanks for Visiting My Profile!** 🌟
 
-*Keep learning • Keep building • Keep innovating*
+*Keep learning • Keep building • Keep creating beautiful experiences*
 
 **Made with ❤️ by Omkar Verma | July 2026**
 
