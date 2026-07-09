@@ -2,11 +2,26 @@
 
 # 👋 Hi, I'm Omkar Verma
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Cyber+Security+Learner;Building+Intelligent+Solutions)](https://github.com/001omkar)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Cyber+Security+Learner;Full-Stack+Developer;Building+Intelligent+Solutions)](https://github.com/001omkar)
 
 **🚀 AI Engineer | 🔐 Security Enthusiast | 💻 Full-Stack Learner**
 
 *"Building intelligent solutions, securing digital systems, and learning something new every single day."*
+
+</div>
+
+---
+
+## 📱 Quick Links
+
+<div align="center">
+
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-verma-?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001omkar)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:007omkarverma@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/001omkar)
+
+**👉 [View Full Profile on LinkedIn →](https://www.linkedin.com/in/omkar-verma-?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
 </div>
 
@@ -81,11 +96,19 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 
 ## 🏆 Achievements & Certifications
 
-| Award | Details |
-|-------|---------|
-| 🥇 **1st Place** | Software Engineering Category — **Prism Expo** |
-| 📜 **Certification** | Deloitte Australia Cyber Job Simulation — **Forage** |
-| 💡 **Passionate Learner** | Continuous upskilling in AI/ML & Cyber Security |
+### 🥇 Awards & Recognition
+| Award | Details | Date |
+|-------|---------|------|
+| 🥇 **1st Place** | Software Engineering Category — **Prism Expo** | 2026 |
+| 📜 **Certification** | Deloitte Australia Cyber Job Simulation — **Forage** | 2026 |
+
+### 📚 Certifications & Learnings
+- 🔐 **Cybersecurity fundamentals** — Ongoing
+- 🤖 **Machine Learning specialization** — In Progress
+- 💡 **Data Science & AI** — Continuous Learning
+- ⚙️ **Software Development Best Practices** — Practiced
+
+**📌 For complete certifications & endorsements, visit my [LinkedIn Profile →](https://www.linkedin.com/in/omkar-verma-?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
 ---
 
@@ -103,13 +126,27 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 
 ---
 
+## 🔗 Featured Projects
+
+### 🔐 [Password Generator](https://github.com/001omkar/password-g)
+- 🐍 Python-based password generation tool
+- Secure, configurable, and easy to use
+
+### 📊 [Glowing Palm Tree](https://github.com/001omkar/glowing-palm-tree)
+- Full-stack project showcase
+- Multiple implementations and experiments
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:007omkarverma@gmail.com)
+**Choose your platform to connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-verma-?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001omkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/001omkar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:007omkarverma@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/001omkar)
 
 **📧 Email:** 007omkarverma@gmail.com
@@ -132,6 +169,7 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 - 📚 I believe in continuous learning and experimentation
 - 🌍 Passionate about building technology that makes a difference
 - ☕ Fueled by coffee and curiosity
+- 🎯 Always looking to connect with fellow developers and tech enthusiasts
 
 ---
 
@@ -140,6 +178,8 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 ### ⭐ If you find my work interesting, feel free to star my repositories!
 
 ![Visitor Badge](https://visitor-badge.herokuapp.com/?username=001omkar&color=00D9FF)
+
+**[👉 Visit my LinkedIn for full credentials & endorsements →](https://www.linkedin.com/in/omkar-verma-?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
 </div>
 
