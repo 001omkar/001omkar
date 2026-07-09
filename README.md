@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Omkar Verma
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Cyber+Security+Learner;Frontend+Developer;Tech+Explorer)](https://github.com/001omkar)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Cybersecurity+Learner;Frontend+Developer;Tech+Explorer)](https://github.com/001omkar)
 
 **🚀 AI/ML Enthusiast | 🔐 Cybersecurity Learner | 🎨 Frontend Developer | 💡 Tech Explorer**
 
