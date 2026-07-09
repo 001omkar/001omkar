@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Omkar Verma
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Cyber+Security+Learner[...]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Cyber+Security+Learner;Frontend+Developer;Tech+Explorer)](https://github.com/001omkar)
 
 **🚀 AI/ML Enthusiast | 🔐 Cybersecurity Learner | 🎨 Frontend Developer | 💡 Tech Explorer**
 
@@ -16,12 +16,10 @@
 
 <div align="center">
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-verma-?utm_source=share_via&utm_content=profile&[...]
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-verma-?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001omkar)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:007omkarverma@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OmkarVerma11705)
-
-**👉 [View Full Profile on LinkedIn →](https://www.linkedin.com/in/omkar-verma-?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
 </div>
 
