@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Omkar Verma
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Cyber+Security+Learner;Full-Stack+Developer;Building+Intelligent+Solutions)](https://github.com/001omkar)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Cyber+Security+Learner;Building+Intelligent+Solutions)](https://github.com/001omkar)
 
-**🚀 AI Engineer | 🔐 Security Enthusiast | 💻 Full-Stack Learner**
+**🚀 AI/ML Enthusiast | 🔐 Cybersecurity Learner | 💡 Tech Explorer**
 
 *"Building intelligent solutions, securing digital systems, and learning something new every single day."*
 
@@ -33,10 +33,10 @@ I'm **Omkar Verma**, a Computer Science student at **Maharishi University of Inf
 
 I'm passionate about:
 - 🤖 **Artificial Intelligence & Machine Learning** — Building smart, data-driven solutions
-- 🔐 **Cyber Security** — Protecting digital systems and learning ethical hacking
-- 💻 **Full-Stack Development** — Creating real-world applications
+- 🔐 **Cybersecurity** — Understanding digital security and ethical hacking concepts
+- 📊 **Data Science** — Analyzing data and extracting meaningful insights
 
-My goal is to become an **AI Engineer** who builds intelligent, secure, and impactful applications that solve real-world problems.
+My goal is to become an **AI Engineer** who builds intelligent and secure applications that solve real-world problems.
 
 ---
 
@@ -46,7 +46,7 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 <img src="https://img.shields.io/badge/🤖-Artificial%20Intelligence-00D9FF?style=for-the-badge&logo=robot" />
 <img src="https://img.shields.io/badge/🧠-Deep%20Learning%20&%20Neural%20Networks-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🐍-Python%20for%20AI%20Development-3776AB?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/🔐-Cyber%20Security%20&%20Ethical%20Hacking-FFD700?style=for-the-badge&logo=security" />
+<img src="https://img.shields.io/badge/🔐-Cybersecurity%20&%20Ethical%20Hacking-FFD700?style=for-the-badge&logo=security" />
 <img src="https://img.shields.io/badge/📊-Data%20Structures%20&%20Algorithms-26A65B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💡-AI--Powered%20Projects-FFA500?style=for-the-badge" />
 </div>
@@ -55,17 +55,15 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </div>
 
-### 🧰 Tools & Frameworks
+### 🧰 Development Tools
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -84,13 +82,13 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
-- ✅ Build **3+ real-world AI & ML projects**
-- ✅ **Strengthen Cyber Security skills** with certifications
-- ✅ **Master Data Structures & Algorithms** for competitive coding
-- ✅ **Contribute to Open Source** projects
-- ✅ **Land an AI/ML Internship** at a reputed company
+- 🤖 Build **real-world AI & ML projects** with practical applications
+- 🔐 **Strengthen Cybersecurity knowledge** with hands-on learning
+- 📈 **Master Data Structures & Algorithms** for problem-solving
+- 🌐 **Contribute to Open Source** projects
+- 💼 **Pursue AI/ML opportunities** in the industry
 
 ---
 
@@ -102,11 +100,11 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 | 🥇 **1st Place** | Software Engineering Category — **Prism Expo** | 2026 |
 | 📜 **Certification** | Deloitte Australia Cyber Job Simulation — **Forage** | 2026 |
 
-### 📚 Certifications & Learnings
+### 📚 Continuous Learning
 - 🔐 **Cybersecurity fundamentals** — Ongoing
-- 🤖 **Machine Learning specialization** — In Progress
-- 💡 **Data Science & AI** — Continuous Learning
-- ⚙️ **Software Development Best Practices** — Practiced
+- 🤖 **Machine Learning & Deep Learning** — In Progress
+- 📊 **Data Science & Analytics** — Active Learning
+- 💻 **Problem-Solving with DSA** — Continuous Practice
 
 **📌 For complete certifications & endorsements, visit my [LinkedIn Profile →](https://www.linkedin.com/in/omkar-verma-?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
@@ -129,12 +127,12 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 ## 🔗 Featured Projects
 
 ### 🔐 [Password Generator](https://github.com/001omkar/password-g)
-- 🐍 Python-based password generation tool
-- Secure, configurable, and easy to use
+- 🐍 Python-based secure password generation tool
+- Configurable security parameters
 
 ### 📊 [Glowing Palm Tree](https://github.com/001omkar/glowing-palm-tree)
-- Full-stack project showcase
-- Multiple implementations and experiments
+- Experimental projects and learning implementations
+- Exploring different AI/ML concepts
 
 ---
 
@@ -155,21 +153,21 @@ My goal is to become an **AI Engineer** who builds intelligent, secure, and impa
 
 ---
 
-## 💡 Quote I Live By
+## 💡 Philosophy
 
 > *"Consistency beats talent when talent doesn't stay consistent."*
 
-⭐ **Learning → Building → Securing → Growing**
+⭐ **Learn → Build → Secure → Grow**
 
 ---
 
 ## 🙋‍♂️ Fun Facts About Me
 
 - 🎮 Debugging code is like playing detective — I love solving puzzles
-- 📚 I believe in continuous learning and experimentation
-- 🌍 Passionate about building technology that makes a difference
+- 📚 Passionate about continuous learning and experimentation
+- 🌍 Interested in building technology that makes a real impact
 - ☕ Fueled by coffee and curiosity
-- 🎯 Always looking to connect with fellow developers and tech enthusiasts
+- 🎯 Always eager to connect with fellow developers and tech enthusiasts
 
 ---
 
