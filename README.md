@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Omkar Verma
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Cyber+Security+Learner;Building+Intelligent+Solutions)](https://github.com/001omkar)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Cyber+Security+Learner;Frontend+Developer;Always+Building+Something+New)](https://github.com/001omkar)
 
-**🚀 AI/ML Enthusiast | 🔐 Cybersecurity Learner | 💡 Tech Explorer**
+**🚀 AI/ML Enthusiast | 🔐 Cybersecurity Learner | 🎨 Frontend Developer | 💡 Tech Explorer**
 
-*"Building intelligent solutions, securing digital systems, and learning something new every single day."*
+*"Building intelligent solutions, securing digital systems, crafting beautiful interfaces, and learning something new every single day."*
 
 </div>
 
@@ -34,9 +34,10 @@ I'm **Omkar Verma**, a Computer Science student at **Maharishi University of Inf
 I'm passionate about:
 - 🤖 **Artificial Intelligence & Machine Learning** — Building smart, data-driven solutions
 - 🔐 **Cybersecurity** — Understanding digital security and ethical hacking concepts
+- 🎨 **Frontend Development** — Creating responsive, user-friendly web interfaces
 - 📊 **Data Science** — Analyzing data and extracting meaningful insights
 
-My goal is to become an **AI Engineer** who builds intelligent and secure applications that solve real-world problems.
+My goal is to become an **AI Engineer & Full-Stack Developer** who builds intelligent, secure, and beautiful applications that solve real-world problems.
 
 ---
 
@@ -47,6 +48,7 @@ My goal is to become an **AI Engineer** who builds intelligent and secure applic
 <img src="https://img.shields.io/badge/🧠-Deep%20Learning%20&%20Neural%20Networks-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🐍-Python%20for%20AI%20Development-3776AB?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/🔐-Cybersecurity%20&%20Ethical%20Hacking-FFD700?style=for-the-badge&logo=security" />
+<img src="https://img.shields.io/badge/🎨-Frontend%20Web%20Development-FF1493?style=for-the-badge" />
 <img src="https://img.shields.io/badge/📊-Data%20Structures%20&%20Algorithms-26A65B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💡-AI--Powered%20Projects-FFA500?style=for-the-badge" />
 </div>
@@ -61,6 +63,15 @@ My goal is to become an **AI Engineer** who builds intelligent and secure applic
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</div>
+
+### 🎨 Frontend Technologies
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Responsive%20Design-4CAF50?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
 ### 🧰 Development Tools
@@ -85,6 +96,7 @@ My goal is to become an **AI Engineer** who builds intelligent and secure applic
 ## 🎯 Current Goals
 
 - 🤖 Build **real-world AI & ML projects** with practical applications
+- 🎨 **Master Frontend Development** — Create stunning, responsive UIs
 - 🔐 **Strengthen Cybersecurity knowledge** with hands-on learning
 - 📈 **Master Data Structures & Algorithms** for problem-solving
 - 🌐 **Contribute to Open Source** projects
@@ -101,6 +113,7 @@ My goal is to become an **AI Engineer** who builds intelligent and secure applic
 | 📜 **Certification** | Deloitte Australia Cyber Job Simulation — **Forage** | 2026 |
 
 ### 📚 Continuous Learning
+- 🎨 **Frontend Development & Responsive Design** — Active
 - 🔐 **Cybersecurity fundamentals** — Ongoing
 - 🤖 **Machine Learning & Deep Learning** — In Progress
 - 📊 **Data Science & Analytics** — Active Learning
@@ -129,10 +142,17 @@ My goal is to become an **AI Engineer** who builds intelligent and secure applic
 ### 🔐 [Password Generator](https://github.com/001omkar/password-g)
 - 🐍 Python-based secure password generation tool
 - Configurable security parameters
+- Clean frontend interface
 
 ### 📊 [Glowing Palm Tree](https://github.com/001omkar/glowing-palm-tree)
 - Experimental projects and learning implementations
-- Exploring different AI/ML concepts
+- Exploring different AI/ML & Frontend concepts
+- Interactive web applications
+
+### 🎨 Frontend & Web Development Projects
+- Responsive web designs using HTML5 & CSS3
+- Interactive JavaScript applications
+- User-centric UI/UX implementations
 
 ---
 
@@ -157,7 +177,7 @@ My goal is to become an **AI Engineer** who builds intelligent and secure applic
 
 > *"Consistency beats talent when talent doesn't stay consistent."*
 
-⭐ **Learn → Build → Secure → Grow**
+⭐ **Learn → Build → Design → Secure → Grow**
 
 ---
 
@@ -165,6 +185,7 @@ My goal is to become an **AI Engineer** who builds intelligent and secure applic
 
 - 🎮 Debugging code is like playing detective — I love solving puzzles
 - 📚 Passionate about continuous learning and experimentation
+- 🎨 Love crafting beautiful and intuitive user interfaces
 - 🌍 Interested in building technology that makes a real impact
 - ☕ Fueled by coffee and curiosity
 - 🎯 Always eager to connect with fellow developers and tech enthusiasts
